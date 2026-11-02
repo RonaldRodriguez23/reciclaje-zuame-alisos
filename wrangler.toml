@@ -1,0 +1,4 @@
+name = "reciclaje-zuame-alisos"
+compatibility_date = "2026-11-02"
+pages_build_output_dir = "./dist"
+# D1 se configura desde el panel de Cloudflare Pages con el binding DB.
